@@ -14,10 +14,10 @@ This workflow produces a dataset and analytical outputs suitable for **academic 
 
 The goal of this study is to analyze **how news media frames AI-generated content**, focusing on:
 
-* Trust and credibility of AI-generated media
-* Misinformation and deepfake concerns
-* Ethical and regulatory debates around AI
-* Overall sentiment toward generative AI technologies
+* To analyze the overall sentiment expressed in news media discussions about AI-generated content.
+* To identify the key themes emerging in news coverage related to generative AI technologies.
+* To compare how different news sources frame AI-generated content.
+* To evaluate the applicability of sentiment analysis techniques for analyzing AI-related media discourse.
 
 ---
 
